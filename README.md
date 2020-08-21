@@ -57,6 +57,8 @@ Please read this document carefully and follow the instrucitons above and the la
 
 You should provide enough instructions for the reviewer to build and run your works.
 
+Notify us when you are completed.
+
 **P.S. since your account name may not be your real name, please state your real name in the Authors section below.**
 
 
