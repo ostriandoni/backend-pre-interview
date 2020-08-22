@@ -48,9 +48,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-### CoffeeScript ###
-*.js
-
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
